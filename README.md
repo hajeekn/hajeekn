@@ -7,7 +7,7 @@
 - ✍[Blog](https://blog.slqwq.cn)
 - ♣[Homepage](https://slqwq.cn)
 ---
-#### 🎗Here are the GitHub repositories shared by Hajeekn (SL)
+#### 🎗 Here are the GitHub repositories shared by Hajeekn (SL)
 - [Hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
 ---
 #### Here is the language that Hajeekn (SL) is more familiar with
