@@ -10,10 +10,10 @@
 #### 🎗 Here are a GitHub repository contributed by Hajeekn (SL)
 - [Hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
 ---
-#### Here is the language that Hajeekn (SL) is more familiar with
+#### 💻 Here is the language that Hajeekn (SL) is more familiar with
 - CSS (Half)
 - Stylus
 ---
-#### Here is the (communication) language that Hajeekn (SL) is more familiar with
+#### 🎡 Here is the (communication) language that Hajeekn (SL) is more familiar with
 - Chinese(Traditional)
 - Chinese(Simplified)
