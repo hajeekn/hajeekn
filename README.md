@@ -4,8 +4,8 @@
 ---
 #### Below is the project I built
 - 🧶[ipfs reverse generation](https://ipfs.slqwq.cn)
-- ✍[Blog](https://blog.slqwq.cn]
-- ♣[Homepage](https://slqwq.cn]
+- ✍[Blog](https://blog.slqwq.cn)
+- ♣[Homepage](https://slqwq.cn)
 ---
 #### 🎗Here are the GitHub repositories shared by Hajeekn (SL)
 - [Hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
