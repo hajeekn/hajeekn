@@ -20,5 +20,6 @@
 ---
 #### My <s>shameful</s> game card
 Genshin impact:
+
 ![](https://ys.card.api.slqwq.cn/detail/rand/281418041.png)
 
