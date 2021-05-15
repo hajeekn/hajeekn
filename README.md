@@ -17,3 +17,8 @@
 #### 🎡 Here is the (communication) language that Hajeekn (SL) is more familiar with
 - Chinese(Traditional)
 - Chinese(Simplified)
+---
+#### My <s>shameful</s> game card
+Genshin impact:
+![](https://ys.card.api.slqwq.cn/detail/rand/281418041.png)
+
