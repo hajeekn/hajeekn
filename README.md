@@ -7,6 +7,10 @@
    <img src="https://img.shields.io/badge/Zhihu-Hajeekn-blue">
 </p>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ladjeek-actions/snk/main/assets/github-contribution-grid-snake.svg" />
+</div>
+
 # 🎆 About me
 - I am a student from Hubei,China
 - I like HTML, but I'm very rubbish
@@ -32,17 +36,13 @@
 # 📈 Statistics
 
 <div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ladjeek-actions" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladjeek-actions&layout=compact&langs_count=8" />
-<span>  </span>
+    <img src="https://activity-graph.herokuapp.com/graph?username=ladjeek-actions&theme=minimal" />
 </div>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ladjeek-actions" />
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ladjeek-actions&theme=minimal" />
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ladjeek-actions" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladjeek-actions&layout=compact&langs_count=8" />
+<span>  </span>
 </div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/ladjeek-actions/snk/main/assets/github-contribution-grid-snake.svg" />
-</div>
-
