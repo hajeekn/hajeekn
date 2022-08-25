@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%2C%E5%BC%82%E4%B9%A1%E7%9A%84%E6%97%85%E8%80%85;Code+makes+me+happy!">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E5%86%99%E4%BB%A3%E7%A0%81%E4%BD%BF%E6%88%91%E5%BF%AB%E4%B9%90!;Code+makes+me+happy!" alt="Typing SVG" /><
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/Bilibili-Hajeekn-ff69b4">
@@ -11,7 +11,24 @@
 - I am a student from Hubei,China
 - I like HTML, but I'm very rubbish
 
-# 📈Statistics
+# 📚 Blog
+
+<table>
+<tbody>
+   <tr>
+       <td  valign="top" width="50%">
+
+### 📝<a href="https://blog.slqwq.cn/" target="_blank">HajeeknのBlog</a>
+
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+</td>
+       <td  valign="top" width="50%">
+        </tr>
+</tbody>
+</table>
+# 📈 Statistics
 
 <div align="center">
 <span>  </span>
