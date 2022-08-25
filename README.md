@@ -25,7 +25,16 @@
 ### 📝<a href="https://blog.slqwq.cn/" target="_blank">HajeeknのBlog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://blog.slqwq.cn/2022/posts/lyr15g/index.html' target='_blank'>将你的网站部署到 Cloudflare 加快访问速度</a> - 2022-08-03
+* <a href='https://blog.slqwq.cn/2022/posts/6bd0d2ac/index.html' target='_blank'>Electron + Vue + Mdui</a> - 2022-07-22
+* <a href='https://blog.slqwq.cn/2022/posts/e443d51d/index.html' target='_blank'>AX9000 Docker 部署指南</a> - 2022-07-22
+* <a href='https://blog.slqwq.cn/2022/posts/e5bb64/index.html' target='_blank'>适用于 Android™ 的 Windows 子系统 Magisk + LSPosed 指南</a> - 2022-06-25
+* <a href='https://blog.slqwq.cn/2022/posts/nvz8s3/index.html' target='_blank'>那些奇奇怪怪的图床</a> - 2022-05-15
+* <a href='https://blog.slqwq.cn/2022/posts/gd503y/index.html' target='_blank'>GitHub 的多种访问方式</a> - 2022-05-14
+* <a href='https://blog.slqwq.cn/2022/posts/ys6wh9/index.html' target='_blank'>IPFS - 一个基于点对点网络的超媒体协议</a> - 2022-05-03
+* <a href='https://blog.slqwq.cn/2022/posts/phiyrf/index.html' target='_blank'>未备案使用国内服务器 & Cloudreve 部署指南</a> - 2022-05-02
+* <a href='https://blog.slqwq.cn/2022/posts/pgczmw/index.html' target='_blank'>使用 Notion 构建自己的博客</a> - 2022-03-12
+* <a href='https://blog.slqwq.cn/2022/posts/zroitiai/index.html' target='_blank'>短链接的解决方案</a> - 2022-02-03
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
