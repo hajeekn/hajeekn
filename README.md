@@ -28,6 +28,7 @@
         </tr>
 </tbody>
 </table>
+
 # 📈 Statistics
 
 <div align="center">
