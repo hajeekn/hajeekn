@@ -44,13 +44,13 @@
 # 📈 Statistics
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ladjeek-actions&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=hajeekn&theme=minimal" />
 </div>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ladjeek-actions" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hajeekn" />
 </div>
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ladjeek-actions" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladjeek-actions&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=hajeekn" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajeekn&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
