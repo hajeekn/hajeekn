@@ -44,9 +44,6 @@
 # 📈 Statistics
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=hajeekn&theme=minimal" />
-</div>
-<div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hajeekn" />
 </div>
 <div align="center">
