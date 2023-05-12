@@ -17,6 +17,8 @@
 
 # 📚 Blog
 
+> disused
+> [Blog](https://hajeekn.js.cool)
 <table>
 <tbody>
    <tr>
