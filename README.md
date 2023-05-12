@@ -17,7 +17,8 @@
 
 # 📚 Blog
 
-> disused
+> The part is disused
+> 
 > [Blog](https://hajeekn.js.cool)
 <table>
 <tbody>
